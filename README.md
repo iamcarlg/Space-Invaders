@@ -1,2 +1,2 @@
-# Space Invaders 2
+# Space Invaders
  
